@@ -1,2 +1,2 @@
-# Dawson-W..github.io
+# Dawson-W.github.io
 This is my personal blog repository.
